@@ -1,4 +1,4 @@
-# AA2. Seleccio SAI
+# AA2. Selecció SAI
 
 # 1. Dispositius i consum
 
