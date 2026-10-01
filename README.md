@@ -1,4 +1,4 @@
-# -AA2.-Selecci-SAI
+# AA2. Seleccio SAI
 
 # 1. Dispositius i consum
 
